@@ -1,3 +1,4 @@
 /.idea/
 /quiz-broadcast-application.iml
 /client/node_modules/
+/client/dist/
